@@ -13,7 +13,7 @@ Show registered storage files of apps by jailbreak
 
 Usage of insTof for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
 
-<img src="https://c.top4top.io/p_2126ljgs51.png" width="50%"></img> 
+<img src="https://c.top4top.io/p_2126ljgs51.png" width="70%"></img> 
 
 
 
