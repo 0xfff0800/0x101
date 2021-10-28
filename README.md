@@ -23,6 +23,9 @@ Usage of insTof for attacking targets without prior mutual consent is illegal. I
 4. ```python3 0x101.py```
 
 
+## https://www.youtube.com/watch?v=DNsWmpTtNsU
+
+
 ## A Kali Linux operating system. We recommend :
 - Kali Linux 2 or Kali 2016.1 rolling 
 - Cyborg
@@ -30,7 +33,7 @@ Usage of insTof for attacking targets without prior mutual consent is illegal. I
 - BackTrack 
 - Backbox  
 - Android - Trimix
-- Iphone - newT 
+- Iphone - newTerm 
 
 ## BUG ? 
 - Please Submit new issue 
